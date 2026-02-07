@@ -127,7 +127,17 @@ print(rag_query("Which foods are spicy and vegetarian?"))
 
 ---
 
-## 🚀 Next Ideas
+## � Recent Updates (by Gab)
+
+- ✨ **Extended food database** - Added 90 diverse food items from global cuisines
+- 🌏 **Japanese & Middle Eastern cuisine** - Comprehensive coverage of Japanese (Sushi, Ramen, Tempura) and Middle Eastern (Hummus, Falafel, Shawarma, Baklava) dishes
+- 🏷️ **Region tagging** - Each food item now includes region and type metadata for better context retrieval
+- 🧠 **Reasoning context** - Enhanced embeddings with enriched text including region and food type information for improved similarity matching
+- 📊 **Structured data** - Better organization of food data with categories (Main Course, Dessert, Snack, Appetizer, etc.)
+
+---
+
+## �🚀 Next Ideas
 
 * Swap in larger datasets (Wikipedia articles, recipes, PDFs)
 * Add a web UI with Gradio or Flask
