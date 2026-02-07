@@ -448,5 +448,95 @@
   "text": "Suutei tsai is a traditional Mongolian milk tea made with green tea, milk, water, and salt.",
   "region": "Mongolia",
   "type": "Beverage"
+},
+{
+  "id": "76",
+  "text": "Jollof rice is a vibrant one-pot rice dish cooked in tomato sauce with vegetables, popular throughout West Africa, especially in Ghana and Nigeria.",
+  "region": "West Africa",
+  "type": "Main Course"
+},
+{
+  "id": "77",
+  "text": "Tagine is a Moroccan slow-cooked stew made with meat or vegetables, dried fruits, and aromatic spices like cinnamon and turmeric.",
+  "region": "Morocco",
+  "type": "Main Course"
+},
+{
+  "id": "78",
+  "text": "Injera is a spongy Ethiopian flatbread made from fermented teff flour, used as both plate and utensil for traditional meals.",
+  "region": "Ethiopia",
+  "type": "Bread"
+},
+{
+  "id": "79",
+  "text": "Falafel is a Middle Eastern deep-fried ball or patty made from ground chickpeas or fava beans, served in pita bread with tahini sauce.",
+  "region": "Middle East",
+  "type": "Main Course"
+},
+{
+  "id": "80",
+  "text": "Pho is a Vietnamese soup consisting of broth, rice noodles, and thinly sliced beef or chicken, flavored with star anise, cinnamon, and fish sauce.",
+  "region": "Vietnam",
+  "type": "Soup"
+},
+{
+  "id": "81",
+  "text": "Kale is a nutrient-dense green leafy vegetable rich in vitamins A, C, K, calcium, and antioxidants. It supports bone health, boosts immunity, and aids detoxification.",
+  "region": "Global",
+  "type": "Healthy Vegetable"
+},
+{
+  "id": "82",
+  "text": "Quinoa is a complete protein containing all nine essential amino acids, plus fiber, magnesium, and manganese. It supports muscle building, digestion, and blood sugar regulation.",
+  "region": "South America",
+  "type": "Healthy Grain"
+},
+{
+  "id": "83",
+  "text": "Blueberries are packed with anthocyanins and vitamin C, providing powerful antioxidant protection, improving memory, reducing inflammation, and supporting heart and brain health.",
+  "region": "Global",
+  "type": "Healthy Fruit"
+},
+{
+  "id": "84",
+  "text": "Almonds are rich in protein, healthy monounsaturated fats, vitamin E, and magnesium. They support heart health, improve bone density, regulate blood sugar, and aid weight management.",
+  "region": "Mediterranean",
+  "type": "Healthy Nut"
+},
+{
+  "id": "85",
+  "text": "Salmon is an excellent source of omega-3 fatty acids, high-quality protein, and vitamin D. It promotes cardiovascular health, reduces inflammation, supports brain function, and boosts immunity.",
+  "region": "Global",
+  "type": "Healthy Fish"
+},
+{
+  "id": "86",
+  "text": "Pad Thai is a Thai stir-fried noodle dish prepared by heating oil in a wok, stir-frying shrimp or chicken, adding noodles and vegetables, then tossing with tamarind sauce and lime.",
+  "region": "Thailand",
+  "type": "International Dish"
+},
+{
+  "id": "87",
+  "text": "Risotto is an Italian creamy rice dish made by gradually adding hot broth to arborio rice while stirring constantly, creating a creamy texture without cream.",
+  "region": "Italy",
+  "type": "International Dish"
+},
+{
+  "id": "88",
+  "text": "Paella is a Spanish rice dish cooked in a wide shallow pan with saffron-infused broth, seafood or meat, and vegetables, creating a flavorful one-pan meal.",
+  "region": "Spain",
+  "type": "International Dish"
+},
+{
+  "id": "89",
+  "text": "Coq au Vin is a French braised chicken dish prepared by browning chicken, sautéing vegetables, then slow-cooking in red wine with mushrooms and pearl onions.",
+  "region": "France",
+  "type": "International Dish"
+},
+{
+  "id": "90",
+  "text": "Ramen is a Japanese noodle soup made by simmering broth for hours, cooking alkaline noodles properly, and topping with chashu pork, soft-boiled eggs, and green onions.",
+  "region": "Japan",
+  "type": "International Dish"
 }
 ]
